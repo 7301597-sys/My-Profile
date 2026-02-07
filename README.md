@@ -11,8 +11,8 @@
 * ⚡ Fun fact: cat
 
 * <p align="center">
+  <img src="https://media.canva.com/v2/image-resize/format:PNG/height:197/quality:100/uri:ifs%3A%2F%2FM%2Fd98708f8-2f82-43e4-8e5b-dd088e3a6364/watermark:F/width:249?csig=AAAAAAAAAAAAAAAAAAAAADjXouIaUE8GMWF0hk3h8v9zMI64lp9nu5yQs8d2lnD-&exp=1770460391&osig=AAAAAAAAAAAAAAAAAAAAAEJqE83ELIVSRPmDG8A6YuAkbw1aknGShgRdYnSOS-Mz&signer=media-rpc&x-canva-quality=screen_2x.png"/>
   <img src="https://media1.tenor.com/m/RzkKNwLMG_oAAAAC/flamingo-albert.gif"/>
-   <img src="https://media.canva.com/v2/image-resize/format:PNG/height:197/quality:100/uri:ifs%3A%2F%2FM%2Fd98708f8-2f82-43e4-8e5b-dd088e3a6364/watermark:F/width:249?csig=AAAAAAAAAAAAAAAAAAAAADjXouIaUE8GMWF0hk3h8v9zMI64lp9nu5yQs8d2lnD-&exp=1770460391&osig=AAAAAAAAAAAAAAAAAAAAAEJqE83ELIVSRPmDG8A6YuAkbw1aknGShgRdYnSOS-Mz&signer=media-rpc&x-canva-quality=screen_2x.png"/>
 </p>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>

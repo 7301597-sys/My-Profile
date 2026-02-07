@@ -11,5 +11,5 @@
 * ⚡ Fun fact: cat
 
 * <p align="center">
-  <img src=https://tenor.com/search/dancing-gifs?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://media1.tenor.com/m/RzkKNwLMG_oAAAAC/flamingo-albert.gif"/>
 </p>

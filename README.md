@@ -19,8 +19,7 @@
    <img height="50" src="https://cdn.aptoide.com/imgs/c/5/1/c51479a765a17b8f9a9aade1359a4a27_icon.png"/>
  <img height="50" src="https://media.canva.com/v2/image-resize/format:PNG/height:197/quality:100/uri:ifs%3A%2F%2FM%2Fd98708f8-2f82-43e4-8e5b-dd088e3a6364/watermark:F/width:249?csig=AAAAAAAAAAAAAAAAAAAAADjXouIaUE8GMWF0hk3h8v9zMI64lp9nu5yQs8d2lnD-&exp=1770460391&osig=AAAAAAAAAAAAAAAAAAAAAEJqE83ELIVSRPmDG8A6YuAkbw1aknGShgRdYnSOS-Mz&signer=media-rpc&x-canva-quality=screen_2x.png"/>
   <img height="50" src=https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png/>
-    <img height="50" src=
-    <img height="50" src=
-    <img height="50" src=
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/960px-Facebook_f_logo_%282019%29.svg.png"
+    
 </a>
 

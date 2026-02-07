@@ -16,9 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brcigsl3j7ikpsivrfviamastq&cover_image=true&theme=default&show_offline=false&background_color=967979&interchange=false&profanity=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31brcigsl3j7ikpsivrfviamastq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brcigsl3j7ikpsivrfviamastq&cover_image=true&theme=default&show_offline=true&background_color=967979&interchange=true&profanity=false&bar_color_cover=true">
   </a>
+</p>
 </p>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>

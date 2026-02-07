@@ -11,5 +11,5 @@
 * ⚡ Fun fact: cat
 
 * <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src=https://tenor.com/search/dancing-gifs?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
